@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysql_study.iml" filepath="$PROJECT_DIR$/.idea/mysql_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mysql/springboot-mysql.iml" filepath="$PROJECT_DIR$/springboot-mysql/springboot-mysql.iml" />
+    </modules>
+  </component>
+</project>
